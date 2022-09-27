@@ -2,6 +2,7 @@
 ### Hi There 👋, Thanks for vising my profile!
 
 **Binil Kuriachan** is working as Sr. Applied Scientist at Microsoft (R&D) and part of Cybersecurity Research team focusing on building intelligent solution for web protection. He is a problem solver with 10+ years of experience and excellent work records in advanced analytics and engineering. Binil has a master's in computer science and rich experience in the industry solving variety of challenging problems. He has worked on multiple AI projects comprising of natural language processing, information retrieval, personalization, supply chain, geospatial modelling, cybersecurity, etc. end to end from inception to operationalization. He has published his works in reputed international journals/conferences and taken 20+ certifications in Machine Learning, Deep Learning, Data Structures, Algorithms etc. Binil is an expert in designing and building scalable machine learning and deep learning pipelines. He is passionate in building simple and efficient data driven solutions and create a broader impact.
+
  <br> - Master's in computer science - Arizona State University - Ira A. Fulton Schools of Engineering 
  <br> - MS Research - IIT Madras <br>
  
